@@ -1,0 +1,42 @@
+.mainbody{
+    background-color: lightgray;
+}
+
+
+.header{
+    height: 100px;
+    line-height: 100px;
+    color: black;
+}
+
+
+
+img{
+    display: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.mainbody{
+    background-color: rgba(211, 211, 211, 0.648);
+}
+
+.Text{
+font-size: x-large;
+font-weight: normal;
+}
+
+.TOP{
+    font-size: xx-large;
+    font-style:italic
+}
+
+.MTOP{
+font-size: large;
+font-style: inherit;
+}
+
+.ITOP{
+    width: 155%;
+}
